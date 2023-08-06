@@ -1,0 +1,21 @@
+.impar{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;   
+}
+
+#second {
+    /* blue text and a font size of 36px */
+    color: blue;
+    font-size: 36px;
+}
+
+.third, #fourth{
+    /* in addition to the styles for all odd numbered elements, add a font size of 24px */
+    font-size: 24px;
+}
+
+#fourth{
+    /* a light green background, a font size of 24px, and bold*/
+    background-color: lightgreen;
+    font-weight: bold;
+}
